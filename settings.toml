@@ -44,7 +44,7 @@ employer = "KQED"      # Where you work, intern, or freelance most
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "bloom"
+template = "editorial"
 
 # ── How people reach you ────────────────────────────────────
 
@@ -80,7 +80,7 @@ My reporting covers local government and underserved communities in the East
 Bay. I'm a newscast intern at KQED, where I've focused on East Contra Costa County news. 
 I previously worked for Bay City News, Contra Costa Pulse, and Richmond Confidential.
 
-
+I'm also a Science Communications intern at the Center of Emerging and Neglected Diseases at UC Berkeley. 
 When I'm not reporting, you'll find me taking pictures of local museums, baking seasonal goods, and enjoying fun Western movies. 
 """
 
