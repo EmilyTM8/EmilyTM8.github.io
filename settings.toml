@@ -104,6 +104,18 @@ footer = ""
 # ============================================================
 
 # ── Published stories: give them a url and they link out ────
+
+[[work]]
+title = "Will Oregon cities be prepared for the Big One?"
+description = "Diego Melgar, director of the Cascadia Region Earthquake Science Center, spoke of the potential earthquake impacting the Pacific Northwest at the ScienceWriters2026 conference in Corvallis, Oregon."
+url = "https://casw.org/news/will-oregon-cities-be-prepared-for-the-big-one/"
+image = "media/articlepics/richmond.jpg"
+date = "October 2026"
+category = "Journalism"
+outlet = "Council for the Advancement of Science Writing"
+
+
+
 [[work]]
 title = "Richmond could be the latest Bay Area city to leave Flock Safety "
 description = "The Richmond City Council is set to vote Tuesday on a $12 million contract with a new license plate reader company."
