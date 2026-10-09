@@ -141,6 +141,22 @@ date = "July 2026"
 category = "Journalism"
 outlet = "Bay City News"
 
+[[work]]
+title = "Photojournalism Assignment"
+description = "Photo assignment from UC Berkeley Journalism School."
+date = "September 2026"
+category = "Photojournalism"
+photos = [
+  "media/repeating-pattern.jpg | Repeating Pattern",
+  "media/perspective.jpg | Perspective",
+  "media/rule-of-thirds.jpg | Rule of Thirds",
+  "media/symmetry.jpg | Symmetry",
+  "media/framing.jpg | Framing",   
+  "media/foreground-background.jpg | Foreground-background",
+  "media/portrait.jpg | Portrait",
+  "media/moment.jpg | Moment",
+]
+
 # ── A photo essay stored right here on your site ────────────
 #
 # No url needed! List the photos and clicking the work opens a
