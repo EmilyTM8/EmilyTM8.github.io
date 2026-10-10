@@ -176,6 +176,22 @@ photos = [
   "media/photo-assignment/portrait.jpg | Portrait",
   "media/photo-assignment/moment.jpg | Moment",]
 
+[[work]]
+title = "Photojournalism Storytelling"
+description = "Photos from previous stories"
+date = "October 2026"
+category = "Photojournalism"
+photos = [
+
+ "media/photoj.jpg/photoj-one.jpg" , 
+ "media/photoj.jpg/photoj-two.jpg",
+  "media/photoj.jpg/photoj-three.jpg",   
+  "media/photoj.jpg/photoj-four.jpg",
+  "media/photoj.jpg/photoj-five.jpg",
+  "media/photoj.jpg/photoj-six.jpg",
+   "media/photoj.jpg/photoj-seven.jpg",]
+
+
 # ── A photo essay stored right here on your site ────────────
 #
 # No url needed! List the photos and clicking the work opens a
