@@ -217,6 +217,13 @@ category = "Multimedia"
 # Upload your video to YouTube or Vimeo, then paste its link
 # here. Clicking the work plays it in a pop-up.
 
+[[work]]
+title = "Student Press Law Center video"
+description = "Stanford Daily editor-in-chief speaks on his journalism experience."
+video = "https://youtu.be/ueUmSFQjtwo?si=4hVOj1qkBpEdK5Fy"
+date = "September 2026"
+category = "Multimedia"
+
 
 
 
