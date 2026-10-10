@@ -190,7 +190,7 @@ photos = [
 [[work]]
 title = "KQED NEWSCAST"
 description = "At 2:30 mark, I read a story on opioid prevention in San Francisco"
-audio = "media/audio/my-piece.mp3"
+audio = "media/audio/kqed-piece.mp3"
 image = "media/work/optional-photo.jpg"
 date = "September 2026"
 category = "Multimedia"
