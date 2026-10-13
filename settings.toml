@@ -167,7 +167,7 @@ description = "Photo assignment from UC Berkeley Journalism School."
 date = "September 2026"
 category = "Photojournalism"
 photos = [
-  "media/photo-assignment/repeating-pattern.jpg | Repeating Pattern",
+  "media/repeating-pattern.jpg | Repeating Pattern",
   "media/photo-assignment/perspective.jpg | Perspective",
   "media/photo-assignment/rule-of-thirds.jpg | Rule of Thirds",
   "media/photo-assignment/symmetry.jpg | Symmetry",
@@ -207,7 +207,7 @@ photos = [
 [[work]]
 title = "KQED NEWSCAST"
 description = "At 2:30 mark, I read a story on opioid prevention in San Francisco"
-audio = "media/audio/kqed-piece.mp3"
+audio = "media/kqed-piece.mp3"
 image = "media/work/optional-photo.jpg"
 date = "September 2026"
 category = "Multimedia"
