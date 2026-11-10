@@ -106,6 +106,16 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
+
+title = "Airbnb Exec Donates $100 Million to San Francisco Parks in Record Gift to City"
+description = "Five of the city’s parks are set to receive the first half of the money as early as this year."
+url = "https://www.kqed.org/news/12108956/airbnb-exec-donates-100-million-to-san-francisco-parks-in-record-gift-to-city"
+image = "media/articlepics/oregon.jpg"
+date = "November 2026"
+category = "Journalism"
+outlet = "KQED"
+
+
 title = "Will Oregon cities be prepared for the Big One?"
 description = "Diego Melgar, director of the Cascadia Region Earthquake Science Center, spoke of the potential earthquake impacting the Pacific Northwest at the ScienceWriters2026 conference in Corvallis, Oregon."
 url = "https://casw.org/news/will-oregon-cities-be-prepared-for-the-big-one/"
