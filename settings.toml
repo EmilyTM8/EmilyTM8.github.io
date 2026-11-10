@@ -106,7 +106,6 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-
 title = "Airbnb Exec Donates $100 Million to San Francisco Parks in Record Gift to City"
 description = "Five of the city’s parks are set to receive the first half of the money as early as this year."
 url = "https://www.kqed.org/news/12108956/airbnb-exec-donates-100-million-to-san-francisco-parks-in-record-gift-to-city"
@@ -114,6 +113,7 @@ image = ""
 date = "November 2026"
 category = "Journalism"
 outlet = "KQED"
+
 
 
 title = "Will Oregon cities be prepared for the Big One?"
@@ -195,11 +195,11 @@ photos = [
 
  "media/photoj.jpg/photoj-one.jpg" , 
  "media/photoj.jpg/photoj-two.jpg",
-  "media/photoj.jpg/photoj-three.jpg",   
+ "media/photoj.jpg/photoj-three.jpg",   
   "media/photoj.jpg/photoj-four.jpg",
   "media/photoj.jpg/photoj-five.jpg",
   "media/photoj.jpg/photoj-six.jpg",
-   "media/photoj.jpg/photoj-seven.jpg",]
+  "media/photoj.jpg/photoj-seven.jpg",]
 
 
 # ── A photo essay stored right here on your site ────────────
