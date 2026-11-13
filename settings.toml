@@ -171,20 +171,6 @@ date = "July 2026"
 category = "Journalism"
 outlet = "Bay City News"
 
-[[work]]
-title = "Photojournalism Assignment"
-description = "Photo assignment from UC Berkeley Journalism School."
-date = "September 2026"
-category = "Photojournalism"
-photos = [
-  "media/repeating-pattern.jpg | Repeating Pattern",
-  "media/photo-assignment/perspective.jpg | Perspective",
-  "media/photo-assignment/rule-of-thirds.jpg | Rule of Thirds",
-  "media/photo-assignment/symmetry.jpg | Symmetry",
-  "media/photo-assignment/framing.jpg | Framing",   
-  "media/photo-assignment/foreground-background.jpg | Foreground-background",
-  "media/photo-assignment/portrait.jpg | Portrait",
-  "media/photo-assignment/moment.jpg | Moment",]
 
 [[work]]
 title = "Photojournalism Storytelling"
@@ -220,7 +206,7 @@ description = "At 2:30 mark, I read a story on opioid prevention in San Francisc
 audio = "media/kqed-piece.mp3"
 image = "media/work/optional-photo.jpg"
 date = "September 2026"
-category = "audio"
+category = "Audio"
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
@@ -232,7 +218,7 @@ title = "Student Press Law Center video"
 description = "Stanford Daily editor-in-chief speaks on his journalism experience."
 video = "https://www.youtube.com/shorts/ueUmSFQjtwo"
 date = "September 2026"
-category = "Multimedia"
+category = "Video"
 
 
 
